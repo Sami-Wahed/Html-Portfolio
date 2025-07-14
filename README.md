@@ -1,2 +1,2 @@
 # Html-Portfolio
-Display My first Html Portfolio Website.
+My first html Portfolio Website.
